@@ -68,26 +68,9 @@ The program uses `accounts.txt` to record account creation details, deposits, wi
 
 ## 📸 Output Screenshots
 
-### 1. Account Creation
-[View Screenshot](PASTE_ACCOUNT_CREATION_SCREENSHOT_LINK_HERE)
+### 1. [View Screenshot]
+(https://github.com/Reeshurajesh/Banking-System-/blob/cf75a6252e24b693b169c34d38e4ffb5a28e7c00/output.png)
 
-### 2. Deposit Operation
-[View Screenshot](PASTE_DEPOSIT_SCREENSHOT_LINK_HERE)
-
-### 3. Withdrawal Operation
-[View Screenshot](PASTE_WITHDRAWAL_SCREENSHOT_LINK_HERE)
-
-### 4. Available Balance
-[View Screenshot](PASTE_BALANCE_SCREENSHOT_LINK_HERE)
-
-### 5. Account Deletion
-[View Screenshot](PASTE_ACCOUNT_DELETION_SCREENSHOT_LINK_HERE)
-
-### 6. Exit Operation
-[View Screenshot](PASTE_EXIT_SCREENSHOT_LINK_HERE)
-
-### 7. File Handling Output
-[View Screenshot](PASTE_FILE_OUTPUT_SCREENSHOT_LINK_HERE)
 
 ## 🚀 Future Enhancements
 
